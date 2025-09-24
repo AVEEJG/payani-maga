@@ -89,8 +89,8 @@ npm run dev
 ---
 
 ## Project Structure
-- `chariotai-backend/` - FastAPI backend (main.py)
-- `chariotai-projects-.../src/` - React frontend (pages, components)
+- `backend/` - FastAPI backend (main.py)
+- `projects-.../src/` - React frontend (pages, components)
 - `src/firebase.js` - Firebase config and initialization
 - `firebase.d.ts` - TypeScript declaration for Firebase module (should be in project root)
 
